@@ -77,7 +77,7 @@ if input:
 
 #result = retrieval_chain.invoke({"input" : "What is the document about can you write in 1 line"})
 
-#print(result['answer'])
+# print(result['answer'])
 
-
+ 
 
