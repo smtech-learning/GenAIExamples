@@ -1,0 +1,9 @@
+langchain
+openai
+langchain-openai
+faiss-cpu
+langchain-community
+streamlit
+PyPDF
+matplotlib
+seaborn
